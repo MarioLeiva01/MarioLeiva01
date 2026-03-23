@@ -103,7 +103,7 @@ Datos & Analítica
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=blue)
 
 ---
 
