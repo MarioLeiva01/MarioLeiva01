@@ -1,3 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Data+Engineer&fontSize=30)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=SOUL&fontSize=40&fontColor=ffffff" />
+
+
 ## Hell0, World 👋
 
 # 👨‍💻 Ing. Mario Leiva
@@ -19,19 +23,6 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 - Team member SOUL associate " web site"
 
 
-<div align="center">
-<!-- Banner Dinámico: Cambia el color y el texto según tu preferencia -->
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dwaving%26color%3D009ACD%26height%3D200%26section%3Dheader%26text%3DIngeniero%2520de%2520Sistemas%26fontSize%3D50%26animation%3DfadeIn" width="100%" alt="Banner Principal" />
-
-<p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/wilmermleiva">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
-</a>
-<a href="mailto:[wilmermleiva@hotmail.com]">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email" />
-</a>
-</p>
-</div>
 
 🔍 Especialidad: Ingeniería de Datos / IA .
 
@@ -44,16 +35,19 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 ## 🛠️ Stack Tecnológico
 
 ### 📊 Data & Analytics
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Docker](https://skillicons.dev/icons?i=docker)
 
 - Power , azure apache hadoop 
 
 ---
 
 ### ⚙️ Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Spring](https://skillicons.dev/icons?i=spring)
 - Spring Boot  
 - Node.js + Express  
 - REST APIs  
@@ -61,9 +55,10 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 ---
 
 ### 🌐 Full Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
+![React](https://skillicons.dev/icons?i=react)
+![Next](https://skillicons.dev/icons?i=nextjs)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ---
 
@@ -79,14 +74,19 @@ Infraestructura & Ops
 - Scrum 
 Desarrollo & Backend
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+![Snake animation](https://github.com/tu-usuario/MarioLeiva01/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats
+
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?MarioLeiva01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=blue)
+![Metrics](https://metrics.lecoq.io/MarioLeiva01?template=terminal&config.timezone=America/Bogota)
 
 ---
 ## 💡 Diferencial
@@ -99,7 +99,7 @@ Desarrollo & Backend
 
 📊 Métricas de Desempeño Técnico
 
-🤝 Conectemos
+🤝 Conectemos ![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=blue)
 
 📫 Email: wilmermleiva@hotmail.com
 
