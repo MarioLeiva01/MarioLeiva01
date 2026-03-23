@@ -127,17 +127,17 @@ Estas métricas se actualizan automáticamente basadas en tu actividad real en G
 <tr>
 <td width="50%">
 <!-- Estadísticas Generales -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[MarioLeiva01]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Estadísticas de [MarioLeiva01]" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3FMarioLeiva01%3D[MarioLeiva01]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="Estadísticas de [MarioLeiva01]" />
 </td>
 <td width="50%">
 <!-- Lenguajes más usados -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[MarioLeiva01]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Lenguajes más usados" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3FMarioLeiva01%3D[MarioLeiva01]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="100%" alt="Lenguajes más usados" />
 </td>
 </tr>
 <tr>
 <td colspan="2">
 <!-- Racha de contribuciones -->
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[MarioLeiva01]&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3FMarioLeiva01%3D[MarioLeiva01]&theme=tokyonight&hide_border=true" width="100%" alt="Racha de contribuciones" />
 </td>
 </tr>
 </table>
