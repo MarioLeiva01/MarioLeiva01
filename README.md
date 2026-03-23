@@ -1,3 +1,15 @@
+
+<!-- 🔥 HEADER FUTURISTA -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- ⚡ TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas;Data+%2B+Full+Stack+Engineer;Construyendo+sistemas+inteligentes;Automatización+%7C+Pipelines+%7C+APIs" />
+</p>
+
+---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=SOUL&fontSize=40&fontColor=ffffff" />
 
 
@@ -58,7 +70,23 @@ Desarrollo & Backend
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&cache_seconds=1800" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&cache_seconds=1800" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight" width="70%" />
+
+</div>
 
 ## 📊 GitHub Stats
 
@@ -88,12 +116,77 @@ https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mar
 
 ✍️ Blog Técnico: github.com/MarioLeiva01
 
+
+<p align="center">
+
+<a href="https://tu-sitio.com">
+  <img src="https://skillicons.dev/icons?i=web" />
+</a>
+
+<a href="https://github.com/MarioLeiva01">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/tu-perfil">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+</p>
+
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioLeiva01)
 
 <p align="center">
 <i>"Un buen ingeniero no es el que sabe todas las respuestas, sino el que sabe hacer las preguntas correctas al sistema."</i>
+</p>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
+
+</div>
+
+## 📈 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioLeiva01&bg_color=0f2027&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" width="95%" />
+
+</div>
+
+## 🤝 Conecta conmigo
+
+<div align="center">
+
+<a href="https://linkedin.com/in/tu-perfil">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MarioLeiva01">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+<!-- 🔥 FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
 
 
