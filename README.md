@@ -1,10 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=Data+Engineer&fontSize=30)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=SOUL&fontSize=40&fontColor=ffffff" />
 
 
 ## Hell0, World 👋
 
-# 👨‍💻 Ing. Mario Leiva
+👨‍💻 Ing. Mario Leiva
 💻 **Ingeniero de Sistemas | Data & Full Stack Engineering | AI Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmermleiva)
@@ -39,6 +38,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Azure](https://skillicons.dev/icons?i=azure)
 
 - Power , azure apache hadoop 
 
@@ -62,9 +62,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 
 ---
 
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- Docker  
+### ☁️ DevOps & Tools  
 - Kubernetes (básico)  
 
 ---
@@ -76,36 +74,36 @@ Desarrollo & Backend
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Snake animation](https://github.com/tu-usuario/MarioLeiva01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MarioLeiva01/MarioLeiva01/blob/output/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?MarioLeiva01)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MarioLeiva01)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/MarioLeiva01?template=terminal&config.timezone=America/Bogota)
+![Metrics](https://metrics.lecoq.io/username=MarioLeiva01?template=terminal&config.timezone=America/Bogota)
 
 ---
-## 💡 Diferencial
+## 💡 Preguntame por
 
-- 🔁 Automatización de procesos analíticos reales (NPS, pipelines)
-- 🔗 Integración Data + Backend + Frontend
-- 📈 Pensamiento orientado a impacto (no solo código)
-- 🧠 Enfoque en IA como evolución natural del Data Engineering
+- 🔁 Automatización de procesos analíticos reales (pipelines)
+- 🧠 Integración Data + Backend + Frontend
 
 
-📊 Métricas de Desempeño Técnico
 
 🤝 Conectemos ![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=blue)
 
 📫 Email: wilmermleiva@hotmail.com
 
-💼 LinkedIn: linkedin.com/in/wilmermleiva
+💼 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmermleiva)
 
 ✍️ Blog Técnico: github.com/MarioLeiva01
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio.com)
+
 
 <p align="center">
 <i>"Un buen ingeniero no es el que sabe todas las respuestas, sino el que sabe hacer las preguntas correctas al sistema."</i>
