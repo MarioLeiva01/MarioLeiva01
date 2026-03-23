@@ -6,10 +6,6 @@
 👨‍💻 Ing. Mario Leiva
 💻 **Ingeniero de Sistemas | Data & Full Stack Engineering | AI Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilmermleiva)
-[![Portafolio](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioLeiva01)
-
 ---
 
 ## 🎯 Sobre mí
@@ -21,15 +17,10 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 - 🌐 Full Stack Robust Systems Enthusiast (APIs, Arquitectura AND QA )
 - Team member SOUL associate " web site"
 
-
-
-🔍 Especialidad: Ingeniería de Datos / IA .
-
 🛠️ Filosofía: "Código limpio, sistemas robustos y documentación impecable".
 
 📈 Meta 2026: Posicionamiento SOUL
-
-🛠️ Stack Tecnológico (Categorizado)
+---
 
 ## 🛠️ Stack Tecnológico
 
@@ -39,10 +30,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Azure](https://skillicons.dev/icons?i=azure)
-
 - Power , azure apache hadoop 
-
----
 
 ### ⚙️ Backend
 ![Java](https://skillicons.dev/icons?i=java)
@@ -51,8 +39,6 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 - Spring Boot  
 - Node.js + Express  
 - REST APIs  
-
----
 
 ### 🌐 Full Stack
 ![React](https://skillicons.dev/icons?i=react)
@@ -65,8 +51,6 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 ### ☁️ DevOps & Tools  
 - Kubernetes (básico)  
 
----
-
 Infraestructura & Ops
 - Devops Days
 - Scrum 
@@ -74,17 +58,20 @@ Desarrollo & Backend
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-![Snake animation](https://github.com/MarioLeiva01/MarioLeiva01/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📊 GitHub Stats
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=MarioLeiva01)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=radical)
 
 ![Metrics](https://metrics.lecoq.io/username=MarioLeiva01?template=terminal&config.timezone=America/Bogota)
+
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MarioLeiva01
+<div align="center">
 
 ---
 ## 💡 Preguntame por
@@ -93,8 +80,7 @@ Desarrollo & Backend
 - 🧠 Integración Data + Backend + Frontend
 
 
-
-🤝 Conectemos ![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=blue)
+🤝 Conectemos ![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=green)
 
 📫 Email: wilmermleiva@hotmail.com
 
@@ -104,6 +90,7 @@ Desarrollo & Backend
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-FF5733?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-sitio.com)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarioLeiva01)
 
 <p align="center">
 <i>"Un buen ingeniero no es el que sabe todas las respuestas, sino el que sabe hacer las preguntas correctas al sistema."</i>
