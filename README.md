@@ -1,7 +1,7 @@
 
 <!-- 🔥 HEADER FUTURISTA -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:ffd700&height=200&section=header&text=SOUL&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:ff7e5f,100:feb47b&height=200&section=header&text=SOUL&fontColor=ffffff" />
 </p>
 
 <!-- ⚡ TYPING ANIMATION -->
@@ -79,26 +79,21 @@ Desarrollo & Backend
 
 📫 Email: wilmermleiva@hotmail.com
 
-
-✍️ Blog Técnico: github.com/MarioLeiva01
-
-
 <p align="center">
 
-<a href="https://tu-sitio.com">
+SOUL : <a href="https://tu-sitio.com">
   <img src="https://skillicons.dev/icons?i=web" />
 </a>
 
-<a href="https://github.com/MarioLeiva01">
+GitHub : <a href="https://github.com/MarioLeiva01">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-💼 LinkedIn: <a href="https://linkedin.com/in/tu-perfil">
+💼 LinkedIn : <a href="https://linkedin.com/in/tu-perfil">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
-
 
 <p align="center">
 <i>"Un buen ingeniero no es el que sabe todas las respuestas, sino el que sabe hacer las preguntas correctas al sistema."</i>
@@ -128,26 +123,10 @@ Desarrollo & Backend
 
 </div>
 
-## 🤝 Conecta conmigo
-
-<div align="center">
-
-<a href="https://linkedin.com/in/tu-perfil">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/MarioLeiva01">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 
 <!-- 🔥 FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=SOUL&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=SOUL&fontColor=ffffff&animation=twinkling" />
 </p>
 
 
