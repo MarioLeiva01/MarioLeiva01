@@ -99,11 +99,11 @@ Datos & Analítica
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?MarioLeiva01&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?MarioLeiva01&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?MarioLeiva01color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01color=blue)
 
 ---
 
