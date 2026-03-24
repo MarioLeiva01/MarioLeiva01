@@ -1,7 +1,7 @@
 
 <!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ing.Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ing. Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
   
 
@@ -35,7 +35,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 
 <!-- Frameworks -->
 ### 🌐 Frameworks
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=spring" height="60" title="Spring" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="60" title="NestJS" />
   <img src="https://skillicons.dev/icons?i=react" height="60" title="React" />
@@ -45,40 +45,45 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 
 <!-- Bases de datos -->
 ### 📊 Bases de datos
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=mysql" height="60" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" title="PostgreSQL" />
 </div>
 
 <!-- DevOps / Cloud -->
 ### ☁️ DevOps/Cloud
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=docker" height="60" title="Docker" />
   <img src="https://skillicons.dev/icons?i=azure" height="60" title="Azure" />
 </div>
 
 <!-- Control de versiones -->
 ### ⚙️ Control de versiones
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=git" height="60" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="60" title="GitHub" />
 </div>
 
 <!-- Analítica / BI -->
 ### 📊 Analítica / BI
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=powerbi" height="60" title="Power BI" />
 </div>
+
+
 ### ☁️ DevOps & Tools  
-- Git github azure 
+- Git github azure
+  
 ## 💡 Preguntame por
 - 🔁 Automatización de procesos analíticos reales (pipelines)
 - 🧠 Integración Data + Backend + Frontend
 
-
 🤝 Conectemos :
+
 ![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=green)
+
 Discord Chanel: https://discord.gg/42EAnzyt2G
+
 📫 Email: wilmermleiva@hotmail.com
 
 <a href="https://discord.com/users/dmolight01">
@@ -106,7 +111,8 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
 </div>
----
+
+--- 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--
