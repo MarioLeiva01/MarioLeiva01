@@ -1,7 +1,7 @@
 
 <!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ing.Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hell0%20W0rdl&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
   
 
@@ -111,7 +111,7 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
--- 
+---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--
