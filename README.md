@@ -31,6 +31,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
   <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" title="TypeScript" />
 </div>
 
 <!-- Frameworks -->
@@ -53,27 +54,19 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 </div>
 
 <!-- DevOps / Cloud -->
-### ☁️ DevOps/Cloud
+### ☁️ DevOps y Control de versiones
 <div >
   <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure" />
-</div>
-
-<!-- Control de versiones -->
-### ⚙️ Control de versiones
-<div >
-  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
 <img src="https://skillicons.dev/icons?i=visualstudio" height="40" title="Visual Studio" />
 </div>
 
-
-### ☁️ DevOps & Tools  
-- Git github azure
   
 ## 💡 Preguntame por
-- 🔁 Automatización de procesos analíticos reales (pipelines)
-- 🧠 Integración Data + Backend + Frontend
+- 🔁 Automatización de procesos (pipelines)
+- 🧠 Sistemas escalables impulsados con IA
 
 🤝 Conectemos :
 
