@@ -96,18 +96,11 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-## 📊 GitHub Analytics
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
 </div>
 <br>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="60%" />
-</div>
-
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
