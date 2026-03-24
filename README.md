@@ -1,7 +1,7 @@
 
 <!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ing. Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ing.Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
   
 
@@ -27,7 +27,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 
 <!-- Lenguajes -->
 ### 🧠 Lenguajes
-<div align="center">
+<div >
   <img src="https://skillicons.dev/icons?i=python" height="60" title="Python" />
   <img src="https://skillicons.dev/icons?i=java" height="60" title="Java" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" title="Node.js" />
@@ -37,7 +37,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 ### 🌐 Frameworks
 <div >
   <img src="https://skillicons.dev/icons?i=spring" height="60" title="Spring" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" title="NestJS" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" title="NextJS" />
   <img src="https://skillicons.dev/icons?i=react" height="60" title="React" />
   <img src="https://skillicons.dev/icons?i=angular" height="60" title="Angular" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" title="Tailwind CSS" />
@@ -105,14 +105,13 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 <img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </div>
-
 <br>
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
 </div>
 
---- 
+-- 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--
