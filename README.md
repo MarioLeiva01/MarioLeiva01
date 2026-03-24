@@ -1,7 +1,7 @@
 
 <!-- 🔥 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hell0%20W0rdl&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hell0,%20W0rdl&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
   
 
@@ -36,38 +36,35 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 <!-- Frameworks -->
 ### 🌐 Frameworks
 <div >
-  <img src="https://skillicons.dev/icons?i=spring" height="60" title="Spring" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" title="NextJS" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" title="React" />
-  <img src="https://skillicons.dev/icons?i=angular" height="60" title="Angular" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="NextJS" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" title="Angular" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" />
 </div>
 
 <!-- Bases de datos -->
 ### 📊 Bases de datos
 <div >
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" title="PostgreSQL" />
 </div>
 
 <!-- DevOps / Cloud -->
 ### ☁️ DevOps/Cloud
 <div >
-  <img src="https://skillicons.dev/icons?i=docker" height="60" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=azure" height="60" title="Azure" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" title="Azure" />
 </div>
 
 <!-- Control de versiones -->
 ### ⚙️ Control de versiones
 <div >
-  <img src="https://skillicons.dev/icons?i=git" height="60" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" title="GitHub" />
-</div>
-
-<!-- Analítica / BI -->
-### 📊 Analítica / BI
-<div >
-  <img src="https://skillicons.dev/icons?i=powerbi" height="60" title="Power BI" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
 </div>
 
 
@@ -109,6 +106,19 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
+</div>
+
+<div align="center">
+
+<!-- Stats generales -->
+<img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="90%" />
+
+<!-- Lenguajes más usados -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="80%" />
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="90%" />
+
 </div>
 
 ---
