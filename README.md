@@ -28,9 +28,9 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 <!-- Lenguajes -->
 ### 🧠 Lenguajes
 <div >
-  <img src="https://skillicons.dev/icons?i=python" height="60" title="Python" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" title="Java" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript" />
 </div>
 
 <!-- Frameworks -->
@@ -38,7 +38,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 <div >
   <img src="https://skillicons.dev/icons?i=spring" height="40" title="Spring" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" title="NextJS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" title="Angular" />
@@ -64,7 +64,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 <div >
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=visualstudio" height="40" title="Visual Studio" />
 </div>
 
 
@@ -100,26 +100,14 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
 </div>
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
-<div align="center">
-
-<!-- Stats generales -->
-<img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="90%" />
-
-<!-- Lenguajes más usados -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="80%" />
-
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="90%" />
-
-</div>
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
