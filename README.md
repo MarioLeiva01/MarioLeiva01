@@ -31,7 +31,7 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
   <img src="https://skillicons.dev/icons?i=python" height="40" title="Python" />
   <img src="https://skillicons.dev/icons?i=java" height="40" title="Java" />
   <img src="https://skillicons.dev/icons?i=javascript" height="40" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" title="TypeScript" />
 </div>
 
 <!-- Frameworks -->
