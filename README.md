@@ -85,7 +85,7 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 <a href="https://github.com/MarioLeiva01">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://linkedin.com/in/tu-perfil">
+<a href="https://linkedin.com/in/wilmermleiva">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
