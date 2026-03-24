@@ -1,8 +1,9 @@
 
 <!-- 🔥 HEADER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text= " Hell0, W0rld " &fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mario%20Leiva&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
+  
 
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
@@ -11,7 +12,7 @@
 
 ##👨‍💻 Ing. Mario Leiva
 💻 **Ingeniero de Sistemas | Data & Full Stack Engineering | AI Enthusiast**
-![Discord Presence](https://lanyard.cnrad.dev/api/dmolight01)
+![Discord Presence](https://lanyard.cnrad.dev/api/dmolight01&cache_seconds=1800)
 
 ---
 
@@ -23,55 +24,39 @@ Ingeniero de Sistemas enfocado en construir soluciones **end-to-end** combinando
 - ⚙️ Desarrollo IA sostenible 
 - 🌐 Full Stack Robust Systems Enthusiast (APIs, Arquitectura AND QA )
 - Team member SOUL associate " web site"
-🛠️ Filosofía: "Código limpio, sistemas robustos y documentación impecable".
-📈 Meta 2026: Posicionamiento SOUL
+ Filosofía: "Código limpio, sistemas robustos y documentación impecable".
+⚡ Meta 2026: Posicionamiento SOUL
 ---
 
-## 🛠️ Stack Tecnológico
+## 🚀 Stack Tecnológico
 
 <div align="center">
 
 <!-- Lenguajes -->
+### 🧠 Lenguajes
 <img src="https://skillicons.dev/icons?i=python,java,nodejs" width="40" title="Python, Java, Node.js" />
 
 <!-- Frameworks -->
+### 🌐 Frameworks
 <img src="https://skillicons.dev/icons?i=spring,nestjs,react,angular,tailwind" width="40" title="Spring, NestJS, React, Angular, Tailwind" />
 
 <!-- Bases de datos -->
+### 📊 Bases de datos
 <img src="https://skillicons.dev/icons?i=mysql,postgres" width="40" title="MySQL, PostgreSQL" />
 
 <!-- DevOps / Cloud -->
+### ☁️ DevOps/Cloud
 <img src="https://skillicons.dev/icons?i=docker,azure" width="40" title="Docker, Azure" />
 
 <!-- Control de versiones -->
+### ⚙️ Control de versiones
 <img src="https://skillicons.dev/icons?i=git,github" width="40" title="Git, GitHub" />
 
 <!-- Analítica / BI -->
+### 📊 Analítica / BI
 <img src="https://skillicons.dev/icons?i=powerbi" width="40" title="Power BI" />
 
 </div>
-
-### 📊 Data & Analytics
-![Python](https://skillicons.dev/icons?i=python)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Azure](https://skillicons.dev/icons?i=azure)
-- Power , azure apache hadoop 
-
-### ⚙️ Backend
-![Java](https://skillicons.dev/icons?i=java)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
-![Spring](https://skillicons.dev/icons?i=spring)
-- Spring Boot  
-- Node.js + Express  
-- REST APIs  
-
-### 🌐 Full Stack
-![React](https://skillicons.dev/icons?i=react)
-![Next](https://skillicons.dev/icons?i=nextjs)
-![Angular](https://skillicons.dev/icons?i=angular)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### ☁️ DevOps & Tools  
 - Git github azure 
@@ -100,34 +85,17 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=MarioLeiva01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
-
 </div>
 
 <br>
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioLeiva01&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioLeiva01&bg_color=0f2027&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" width="95%" />
-
 </div>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-<!-- 🔥 FOOTER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a2e&height=200&section=header&text=SOUL&fontColor=ffffff&animation=twinkling" />
-</p>
-
 
 <!--
 **MarioLeiva01/MarioLeiva01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
