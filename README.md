@@ -83,9 +83,9 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 </a>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="38%" />
-
-<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&cache_seconds=1800" width="450px" />
+</div>
+<p align="center"><i>Mis lenguajes más utilizados en proyectos reales.</i></p>
 
 ---
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
