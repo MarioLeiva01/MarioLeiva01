@@ -83,7 +83,7 @@ Discord Chanel: https://discord.gg/42EAnzyt2G
 </a>
 
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&cache_seconds=1800" width="350px" alt="Lenguajes más usados" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarioLeiva01&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" width="400" />
 </div>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
