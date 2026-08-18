@@ -69,7 +69,7 @@
 <a href="https://discord.com/users/dmolight01">
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" />
 </a>
-<a href="https://github.com/MarioLeiva01">
+<a href="https://marioleiva01.github.io">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 <a href="https://linkedin.com/in/wilmermleiva">
