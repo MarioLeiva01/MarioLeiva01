@@ -15,8 +15,6 @@
 - 📊 **Data Science & Engineering:** Creación de pipelines ETL, validación de datos y automatización.
 - ⚙️ **AI Integration:** Desarrollo de soluciones impulsadas por Inteligencia Artificial de forma sostenible.
 - 🌐 **Arquitectura Full Stack:** Diseño de APIs RESTful, arquitecturas basadas en microservicios y QA.
-- 🤝 **Team Player:** Miembro asociado SOUL ("Web Site").
-- ⚡ **Meta 2026:** Posicionamiento SOUL y dominio de infraestructuras Cloud Native.
 
 ## 🚀 Stack Tecnológico
 
