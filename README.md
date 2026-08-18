@@ -57,21 +57,17 @@
 </div>
 
 
-## 💡 Preguntame por
-- 🔁 Automatización de procesos (pipelines)
-- 🧠 Sistemas escalables impulsados con IA
+## 💡 Tengo curiosidad por:
+- 🔁 Automatización de procesos
+- 🧠 Desarrollo sostenible
 
 🤝 Conectemos :
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MarioLeiva01&color=green)
-Discord Chanel: https://discord.gg/42EAnzyt2G
 📫 Email: wilmermleiva@hotmail.com
 
 <a href="https://discord.com/users/dmolight01">
   <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" />
-</a>
-<a href="https://tu-sitio.com">
-  <img src="https://skillicons.dev/icons?i=web" />
 </a>
 <a href="https://github.com/MarioLeiva01">
   <img src="https://skillicons.dev/icons?i=github" />
